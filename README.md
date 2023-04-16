@@ -1,4 +1,4 @@
-# uptime-kuma on Replit
+# Uptime_To_Replit
 在replit自建uptime-kuma监控
 https://github.com/louislam/uptime-kuma/wiki/
 
