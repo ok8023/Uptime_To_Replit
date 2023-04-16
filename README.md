@@ -1,6 +1,9 @@
 # Uptime_To_Replit
-在replit自建uptime-kuma监控
-https://github.com/louislam/uptime-kuma/wiki/
+在replit一键部署uptime-kuma监控
+
+uptime-kuma官仓：https://github.com/louislam/uptime-kuma
+
+脚本参考：https://github.com/valetzx/uptimekumaonreplit
 
 ````
 bash <(curl -s  https://raw.githubusercontent.com/ok8023/Uptime_To_Replit/main/install.sh)
