@@ -5,6 +5,10 @@ uptime-kuma官仓：https://github.com/louislam/uptime-kuma
 
 脚本参考：https://github.com/valetzx/uptimekumaonreplit
 
+# 搭建说明：
+
+在Replit.com创建Python环境，在Shell中运行以下代码
+
 ````
 bash <(curl -s  https://raw.githubusercontent.com/ok8023/Uptime_To_Replit/main/install.sh)
 ````
