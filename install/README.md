@@ -10,4 +10,4 @@ bash <(curl -s  https://raw.githubusercontent.com/ok8023/Uptime_To_Replit/main/i
 
 成功部署后注释掉`main.sh`第一行的 git clone
 
-示例：#git clone https://github.com/louislam/uptime-kuma.git
+示例：`#git clone https://github.com/louislam/uptime-kuma.git`
