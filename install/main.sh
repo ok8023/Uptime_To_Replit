@@ -1,4 +1,4 @@
-git clone https://github.com/louislam/uptime-kuma.git
+git clone https://github.com/ok8023/uptime-kuma.git
 cd uptime-kuma
 npm run setup
 
